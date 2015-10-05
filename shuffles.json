@@ -1,0 +1,31 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "level": 0,
+      "shuffles": [
+        {
+          "complexity": 1,
+          "shuffle": "JDJCQS7DKH6CJH5S4HQC3DTDQD3H9H2DAS9S2S8H6S5D2C8SKC7SAH6DAD7CKS5C3C9D9C4C6HQH2H8CJSAC3STHKD8D5H4S7H4DTCTS"
+        },
+        {
+          "complexity": 2,
+          "shuffle": "8C3CQS7H8DKCQD4D4SJDADJCTH6D5C8H7S2C4HQH3H2D3S9STS9D4C5SJHKDAS7C5D2HTD7D9HAH5H2SJS6HTC8S3DQC9CACKSKH6C6S"
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "shuffles": [
+        {
+          "complexity": 4,
+          "shuffle": "2S6S2C5CTS3H9C9H3DAH9S3CQSJH5D4S5SQHTCJD4H3S4DTHKH8C6H6CJC7C6D8HTDQD7S5HJS2DKCQC8SAS7HKD9DAD7D2HKS8DAC4C"
+        },
+        {
+          "complexity": 7,
+          "shuffle": "QH6D2C5C6S9SJSTSKCAS4C8S2SAC7C3CKH5H7HAHTC6CKDKS9DQCAD4DJH5SQD7D9C8DJCTHQS3H7S4H2H6H9H2D3S3D8H8C4STDJD5D"
+        }
+      ]
+    }
+  ]
+}
